@@ -1,0 +1,8 @@
+name: QuestMaker
+version: 1.0.0
+api-version: 1.14
+autor: paul05
+main: paul05.de.QuestMaker.main
+commands:
+   quest:
+      description: Command to controle quests.

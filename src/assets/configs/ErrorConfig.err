@@ -1,0 +1,32 @@
+{
+  "json": [
+    "*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*",
+    "   Error in Quest File Syntax",
+    "   File: %file%",
+    "   Position %pos%",
+    "   Unexpected character: '%unex%'",
+    "*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*"
+  ],
+  "attribute": [
+    "*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*",
+    "   Error in Quest File Syntax",
+    "   File: %file%",
+    "   Can't find the attribute '%geter%' in %from%.",
+    "*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*"
+  ],
+  "plugin": [
+    "*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*",
+    "	Missing Plugin",
+    "	Plugin Name: %name%",
+    "	Please add this plugin to the plugin folder.",
+    "*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*"
+  ],
+  "intern": [
+    "*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*",
+    "	Intern Error",
+    "	Error was safed in File:",
+    "	%file%",
+    "	Please contact us.",
+    "*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*"
+  ]
+}
